@@ -21,7 +21,7 @@ llm-learnings/
 ## 👥 Collaborators
 | Name | Role | Focus Area |
 |------|------|-------------|
-| [Rishita Kukkala](https://github.com/rk2100994) | Lead Data Scientist | LLM Architecture, Fine-tuning |
+| [Rishita Kukkala](https://github.com/rk2100994) | Research Data Scientist | LLM Architecture, Fine-tuning |
 | [Gorakhnath Nigam](https://github.com/gorakhnathnigam) | Research Data Scientist | RAG pipelines, Explainability, Evaluation |
 
 ---
