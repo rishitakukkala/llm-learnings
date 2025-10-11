@@ -21,8 +21,8 @@ llm-learnings/
 ## 👥 Collaborators
 | Name | Role | Focus Area |
 |------|------|-------------|
-| [Rishita Kukkala](https://github.com/rk2100994) | Research Data Scientist | LLM Architecture, Fine-tuning |
-| [Gorakhnath Nigam](https://github.com/GorakhNigam) | Research Data Scientist | RAG pipelines, Explainability, Evaluation |
+| [Rishita Kukkala](https://github.com/rk2100994) | Research Data Scientist | LLM Architecture, RAG pipelines, Fine-tuning, Evaluation, Explainability |
+| [Gorakhnath Nigam](https://github.com/GorakhNigam) | Research Data Scientist | LLM Architecture, RAG pipelines, Fine-tuning, Evaluation, Explainability |
 
 ---
 
@@ -40,9 +40,9 @@ pip install -r requirements.txt
 
 - [x] Embeddings & Vector Databases
 - [x] LangChain RAG Pipeline
-- [ ] Fine-tuning Mini LLMs
-- [ ] Explainability (LIME, SHAP)
-- [ ] Evaluation Metrics (BLEU, ROUGE, BERTScore)
+- [x] Fine-tuning Mini LLMs
+- [x] Explainability (LIME, SHAP)
+- [x] Evaluation Metrics (BLEU, ROUGE, BERTScore)
 
 ---
 =======
